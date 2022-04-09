@@ -35,7 +35,7 @@ Membalik intensitas citra dengan rumus seperti di atas akan menghasilkan negatif
 Jika OpenCV sudah terinstal di project, berikut contoh hasil proses Contrast stretching dengan menggunakan gambar citra original sel darah.
 </p>
 <br>
-<h4>Operasi Morfologi</h3>
+<h3>Operasi Morfologi</h3>
 <br>
 <p>
     Pengolahan citra morfologi adalah kumpulan dari operasi non-linier yang berhubungan dengan bentuk atau morfologi fitur dalam sebuah citra. Menurut Wikipedia, operasi morfologi hanya bergantung pada urutan relatif nilai piksel, bukan pada nilai numeriknya, dan oleh karena itu sangat cocok untuk pemrosesan gambar biner. Operasi morfologis juga dapat diterapkan pada gambar skala abu-abu sehingga fungsi transfer cahayanya tidak diketahui dan oleh karena itu nilai piksel absolutnya tidak terlalu menarik atau sedikit. <br>
